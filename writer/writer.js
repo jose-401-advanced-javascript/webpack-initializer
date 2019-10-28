@@ -11,8 +11,6 @@ const writeJson = (obj, path) => {
   console.log(path);
 };
 
-writeJson({ test: 'abc' }, './test.txt');
-
 module.exports = {
   write,
   writeJson
