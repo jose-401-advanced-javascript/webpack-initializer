@@ -11,4 +11,4 @@ const dependenciesInstaller = (path) => {
 
 module.exports = {
   dependenciesInstaller
-}
+};
